@@ -1,2 +1,2 @@
 # computerScience2_projects
-Completed CS2 Java-based Projects
+- This repo contains most of the projects I've completed during my time taking Computer Science II with Prof. Ahmed
